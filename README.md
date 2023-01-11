@@ -2,7 +2,9 @@
 Currently: Head of Engineering at BuzzSumo
 -----------------------------------------
 
-I like solving problems and creating stuff, and programming is just one way I scratch this itch. I have set up several mobile and web apps from scratch and helped startups turn their MVP into a full featured product now used by thousands of companies and users. I have been working remote for the past 8+ years. Mainly full-stack development, but wore many different hats throughout the years and have experience mentoring other developers and managing teams.### Skills 
+I like solving problems and creating stuff, and programming is just one way I scratch this itch. I have set up several mobile and web apps from scratch and helped startups turn their MVP into a full featured product now used by thousands of companies and users. I have been working remote for the past 8+ years. Mainly full-stack development, but wore many different hats throughout the years and have experience mentoring other developers and managing teams.
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
