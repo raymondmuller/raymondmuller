@@ -1,2 +1,2 @@
 
-Tech Lead / Engineering Manager at BuzzSumo
+Tech Lead / Engineering Manager at Cision
